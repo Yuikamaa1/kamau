@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yuikamaa1/.github.io/react-app/static/css/main.16e91e34.css",
+    "main.js": "/Yuikamaa1/.github.io/react-app/static/js/main.8d973eea.js",
+    "static/js/453.d93bfb51.chunk.js": "/Yuikamaa1/.github.io/react-app/static/js/453.d93bfb51.chunk.js",
+    "index.html": "/Yuikamaa1/.github.io/react-app/index.html",
+    "main.16e91e34.css.map": "/Yuikamaa1/.github.io/react-app/static/css/main.16e91e34.css.map",
+    "main.8d973eea.js.map": "/Yuikamaa1/.github.io/react-app/static/js/main.8d973eea.js.map",
+    "453.d93bfb51.chunk.js.map": "/Yuikamaa1/.github.io/react-app/static/js/453.d93bfb51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16e91e34.css",
+    "static/js/main.8d973eea.js"
+  ]
+}
